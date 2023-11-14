@@ -1,0 +1,8 @@
+streamlit
+pandas
+pycaret
+streamlit_lottie
+Pillow
+Image
+requests
+sklearn.ensemble
