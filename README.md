@@ -1,6 +1,6 @@
 # Allianz Technical Test Analysis Project
 
-![Project Cover](link_to_your_cover_image.jpg)
+![Project Cover](https://github.com/ignalazaro/Prueba_tecnica/blob/main/image.jpeg)
 
 ## Overview
 
